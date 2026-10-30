@@ -2,13 +2,13 @@ import serpapi
 import os
 from datetime import datetime
 import argparse
-
 from dotenv import load_dotenv
+from storage import save_raw_data
+
 load_dotenv()
-
 API_KEY = os.getenv("SERP_API_KEY")
-
 client = serpapi.Client(api_key=API_KEY)
+
 
 def date_validation(date_entered):
         try:
@@ -16,6 +16,7 @@ def date_validation(date_entered):
                 return date_entered
         except ValueError:
                 raise ValueError("Enter a valid date in YYYY-MM-DD format.")
+        
 
 def get_arguments():
         parser = argparse.ArgumentParser(
@@ -66,6 +67,9 @@ def fetch_flights(origin, destination, outbound_date, currency):
 
         return results
 
+
+        
+
 if __name__ == "__main__":
         args = get_arguments()
 
@@ -75,5 +79,9 @@ if __name__ == "__main__":
                 args.date,
                 args.currency
         )
+
+        save_raw_data(results)
+
+        print("flight data saved successfully")
 
         print(results)

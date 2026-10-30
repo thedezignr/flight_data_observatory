@@ -1,0 +1,1684 @@
+[
+    {
+        "fetched_at": "2026-10-28T15:38:33.361943",
+        "results": "results"
+    },
+    {
+        "fetched_at": "2026-10-28T15:42:36.068827",
+        "results": {
+            "search_metadata": {
+                "id": "6ae20499131811c6b11f396a",
+                "status": "Success",
+                "json_endpoint": "https://serpapi.com/searches/5tM9TMwwqJVbh0gM1acmT-bZPFtwulkKDMqL2hn9P0s/6ae20499131811c6b11f396a.json",
+                "markdown_endpoint": "https://serpapi.com/searches/5tM9TMwwqJVbh0gM1acmT-bZPFtwulkKDMqL2hn9P0s/6ae20499131811c6b11f396a.md",
+                "created_at": "2026-10-28 14:20:09 UTC",
+                "processed_at": "2026-10-28 14:20:09 UTC",
+                "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEwLTI4agcIARIDTE9TcgcIARIDTEhSQAFIAXABmAEC&tfu=EgIIAQ",
+                "raw_html_file": "https://serpapi.com/searches/5tM9TMwwqJVbh0gM1acmT-bZPFtwulkKDMqL2hn9P0s/6ae20499131811c6b11f396a.html",
+                "prettify_html_file": "https://serpapi.com/searches/5tM9TMwwqJVbh0gM1acmT-bZPFtwulkKDMqL2hn9P0s/6ae20499131811c6b11f396a.prettify",
+                "total_time_taken": 3.42
+            },
+            "search_parameters": {
+                "engine": "google_flights",
+                "hl": "en",
+                "gl": "us",
+                "type": "2",
+                "departure_id": "LOS",
+                "arrival_id": "LHR",
+                "outbound_date": "2026-10-28",
+                "currency": "USD"
+            },
+            "best_flights": [
+                {
+                    "flights": [
+                        {
+                            "departure_airport": {
+                                "name": "Murtala Muhammed International Airport",
+                                "id": "LOS",
+                                "time": "2026-10-28 15:30"
+                            },
+                            "arrival_airport": {
+                                "name": "Hamad International Airport",
+                                "id": "DOH",
+                                "time": "2026-10-29 00:20"
+                            },
+                            "duration": 410,
+                            "airplane": "Boeing 787",
+                            "airline": "Qatar Airways",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+                            "travel_class": "Economy",
+                            "flight_number": "QR 1406",
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Wi-Fi for a fee",
+                                "In-seat power & USB outlets",
+                                "On-demand video",
+                                "Carbon emissions estimate: 394 kg"
+                            ]
+                        },
+                        {
+                            "departure_airport": {
+                                "name": "Hamad International Airport",
+                                "id": "DOH",
+                                "time": "2026-10-29 02:55"
+                            },
+                            "arrival_airport": {
+                                "name": "Heathrow Airport",
+                                "id": "LHR",
+                                "time": "2026-10-29 07:20"
+                            },
+                            "duration": 445,
+                            "airplane": "Boeing 777",
+                            "airline": "Qatar Airways",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+                            "travel_class": "Economy",
+                            "flight_number": "QR 105",
+                            "ticket_also_sold_by": [
+                                "British Airways"
+                            ],
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Free Wi-Fi",
+                                "In-seat power & USB outlets",
+                                "On-demand video",
+                                "Carbon emissions estimate: 393 kg"
+                            ],
+                            "overnight": true
+                        }
+                    ],
+                    "layovers": [
+                        {
+                            "duration": 155,
+                            "name": "Hamad International Airport",
+                            "id": "DOH"
+                        }
+                    ],
+                    "total_duration": 1010,
+                    "carbon_emissions": {
+                        "this_flight": 788000,
+                        "typical_for_this_route": 381000,
+                        "difference_percent": 107
+                    },
+                    "price": 517,
+                    "type": "One way",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+                    "booking_token": "WyJDalJJT1dsQ2JUUkJTMGREZVRCQlJXTlpTRUZDUnkwdExTMHRMVzk1WW5reE9DMXVNVUZCUVVGQlIzSnBRa3B6UlVoUWNVRkJFZ3hSVWpFME1EWjhVVkl4TURVYUN3akprd01RQWhvRFZWTkVPQnh3eVpNRCIsW1siTE9TIiwiMjAyNi0xMC0yOCIsIkRPSCIsbnVsbCwiUVIiLCIxNDA2Il0sWyJET0giLCIyMDI2LTEwLTI5IiwiTEhSIixudWxsLCJRUiIsIjEwNSJdXV0="
+                },
+                {
+                    "flights": [
+                        {
+                            "departure_airport": {
+                                "name": "Murtala Muhammed International Airport",
+                                "id": "LOS",
+                                "time": "2026-10-28 23:55"
+                            },
+                            "arrival_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 06:25"
+                            },
+                            "duration": 390,
+                            "airplane": "Boeing 787",
+                            "airline": "Lufthansa",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+                            "travel_class": "Economy",
+                            "flight_number": "LH 569",
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Wi-Fi for a fee",
+                                "In-seat USB outlet",
+                                "On-demand video",
+                                "Carbon emissions estimate: 301 kg"
+                            ],
+                            "overnight": true
+                        },
+                        {
+                            "departure_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 08:05"
+                            },
+                            "arrival_airport": {
+                                "name": "Heathrow Airport",
+                                "id": "LHR",
+                                "time": "2026-10-29 08:45"
+                            },
+                            "duration": 100,
+                            "airplane": "Airbus A320neo",
+                            "airline": "Lufthansa",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+                            "travel_class": "Economy",
+                            "flight_number": "LH 900",
+                            "legroom": "29 in",
+                            "extensions": [
+                                "Below average legroom (29 in)",
+                                "In-seat USB outlet",
+                                "Carbon emissions estimate: 66 kg"
+                            ]
+                        }
+                    ],
+                    "layovers": [
+                        {
+                            "duration": 100,
+                            "name": "Frankfurt Airport",
+                            "id": "FRA"
+                        }
+                    ],
+                    "total_duration": 590,
+                    "carbon_emissions": {
+                        "this_flight": 369000,
+                        "typical_for_this_route": 381000,
+                        "difference_percent": -3
+                    },
+                    "price": 780,
+                    "type": "One way",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+                    "booking_token": "WyJDalJJT1dsQ2JUUkJTMGREZVRCQlJXTlpTRUZDUnkwdExTMHRMVzk1WW5reE9DMXVNVUZCUVVGQlIzSnBRa3B6UlVoUWNVRkJFZ3RNU0RVMk9YeE1TRGt3TUJvTENOYmdCQkFDR2dOVlUwUTRISERXNEFRPSIsW1siTE9TIiwiMjAyNi0xMC0yOCIsIkZSQSIsbnVsbCwiTEgiLCI1NjkiXSxbIkZSQSIsIjIwMjYtMTAtMjkiLCJMSFIiLG51bGwsIkxIIiwiOTAwIl1dXQ=="
+                },
+                {
+                    "flights": [
+                        {
+                            "departure_airport": {
+                                "name": "Murtala Muhammed International Airport",
+                                "id": "LOS",
+                                "time": "2026-10-28 23:05"
+                            },
+                            "arrival_airport": {
+                                "name": "Heathrow Airport",
+                                "id": "LHR",
+                                "time": "2026-10-29 04:50"
+                            },
+                            "duration": 405,
+                            "airplane": "Boeing 787-10",
+                            "airline": "British Airways",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+                            "travel_class": "Economy",
+                            "flight_number": "BA 74",
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Wi-Fi for a fee",
+                                "In-seat power & USB outlets",
+                                "On-demand video",
+                                "Carbon emissions estimate: 282 kg"
+                            ],
+                            "overnight": true
+                        }
+                    ],
+                    "total_duration": 405,
+                    "carbon_emissions": {
+                        "this_flight": 282000,
+                        "typical_for_this_route": 381000,
+                        "difference_percent": -26
+                    },
+                    "price": 1005,
+                    "type": "One way",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+                    "booking_token": "WyJDalJJT1dsQ2JUUkJTMGREZVRCQlJXTlpTRUZDUnkwdExTMHRMVzk1WW5reE9DMXVNVUZCUVVGQlIzSnBRa3B6UlVoUWNVRkJFZ1JDUVRjMEdnc0l1cEFHRUFJYUExVlRSRGdjY0xxUUJnPT0iLFtbIkxPUyIsIjIwMjYtMTAtMjgiLCJMSFIiLG51bGwsIkJBIiwiNzQiXV1d"
+                }
+            ],
+            "other_flights": [
+                {
+                    "flights": [
+                        {
+                            "departure_airport": {
+                                "name": "Murtala Muhammed International Airport",
+                                "id": "LOS",
+                                "time": "2026-10-28 23:55"
+                            },
+                            "arrival_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 06:25"
+                            },
+                            "duration": 390,
+                            "airplane": "Boeing 787",
+                            "airline": "Lufthansa",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+                            "travel_class": "Economy",
+                            "flight_number": "LH 569",
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Wi-Fi for a fee",
+                                "In-seat USB outlet",
+                                "On-demand video",
+                                "Carbon emissions estimate: 301 kg"
+                            ],
+                            "overnight": true
+                        },
+                        {
+                            "departure_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 14:05"
+                            },
+                            "arrival_airport": {
+                                "name": "Heathrow Airport",
+                                "id": "LHR",
+                                "time": "2026-10-29 14:45"
+                            },
+                            "duration": 100,
+                            "airplane": "Airbus A320neo",
+                            "airline": "Lufthansa City Airlines",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VL.png",
+                            "travel_class": "Economy",
+                            "flight_number": "VL 908",
+                            "ticket_also_sold_by": [
+                                "Lufthansa"
+                            ],
+                            "legroom": "29 in",
+                            "extensions": [
+                                "Below average legroom (29 in)",
+                                "In-seat USB outlet",
+                                "Carbon emissions estimate: 65 kg"
+                            ]
+                        }
+                    ],
+                    "layovers": [
+                        {
+                            "duration": 460,
+                            "name": "Frankfurt Airport",
+                            "id": "FRA"
+                        }
+                    ],
+                    "total_duration": 950,
+                    "carbon_emissions": {
+                        "this_flight": 368000,
+                        "typical_for_this_route": 381000,
+                        "difference_percent": -3
+                    },
+                    "price": 780,
+                    "type": "One way",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+                    "booking_token": "WyJDalJJT1dsQ2JUUkJTMGREZVRCQlJXTlpTRUZDUnkwdExTMHRMVzk1WW5reE9DMXVNVUZCUVVGQlIzSnBRa3B6UlVoUWNVRkJFZ3RNU0RVMk9YeFdURGt3T0JvTENOYmdCQkFDR2dOVlUwUTRISERXNEFRPSIsW1siTE9TIiwiMjAyNi0xMC0yOCIsIkZSQSIsbnVsbCwiTEgiLCI1NjkiXSxbIkZSQSIsIjIwMjYtMTAtMjkiLCJMSFIiLG51bGwsIlZMIiwiOTA4Il1dXQ=="
+                },
+                {
+                    "flights": [
+                        {
+                            "departure_airport": {
+                                "name": "Murtala Muhammed International Airport",
+                                "id": "LOS",
+                                "time": "2026-10-28 23:55"
+                            },
+                            "arrival_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 06:25"
+                            },
+                            "duration": 390,
+                            "airplane": "Boeing 787",
+                            "airline": "Lufthansa",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+                            "travel_class": "Economy",
+                            "flight_number": "LH 569",
+                            "ticket_also_sold_by": [
+                                "SWISS"
+                            ],
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Wi-Fi for a fee",
+                                "In-seat USB outlet",
+                                "On-demand video",
+                                "Carbon emissions estimate: 301 kg"
+                            ],
+                            "overnight": true
+                        },
+                        {
+                            "departure_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 11:20"
+                            },
+                            "arrival_airport": {
+                                "name": "Zurich Airport",
+                                "id": "ZRH",
+                                "time": "2026-10-29 12:15"
+                            },
+                            "duration": 55,
+                            "airplane": "Embraer 190",
+                            "airline": "Lufthansa",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+                            "travel_class": "Economy",
+                            "flight_number": "LH 1188",
+                            "ticket_also_sold_by": [
+                                "SWISS"
+                            ],
+                            "legroom": "30 in",
+                            "extensions": [
+                                "Average legroom (30 in)",
+                                "Carbon emissions estimate: 63 kg"
+                            ],
+                            "plane_and_crew_by": "Air Dolomiti"
+                        },
+                        {
+                            "departure_airport": {
+                                "name": "Zurich Airport",
+                                "id": "ZRH",
+                                "time": "2026-10-29 15:30"
+                            },
+                            "arrival_airport": {
+                                "name": "Heathrow Airport",
+                                "id": "LHR",
+                                "time": "2026-10-29 16:20"
+                            },
+                            "duration": 110,
+                            "airplane": "Airbus A320neo",
+                            "airline": "SWISS",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LX.png",
+                            "travel_class": "Economy",
+                            "flight_number": "LX 324",
+                            "legroom": "29 in",
+                            "extensions": [
+                                "Below average legroom (29 in)",
+                                "In-seat USB outlet",
+                                "Carbon emissions estimate: 71 kg"
+                            ]
+                        }
+                    ],
+                    "layovers": [
+                        {
+                            "duration": 295,
+                            "name": "Frankfurt Airport",
+                            "id": "FRA"
+                        },
+                        {
+                            "duration": 195,
+                            "name": "Zurich Airport",
+                            "id": "ZRH"
+                        }
+                    ],
+                    "total_duration": 1045,
+                    "carbon_emissions": {
+                        "this_flight": 437000,
+                        "typical_for_this_route": 381000,
+                        "difference_percent": 15
+                    },
+                    "price": 793,
+                    "type": "One way",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+                    "booking_token": "WyJDalJJT1dsQ2JUUkJTMGREZVRCQlJXTlpTRUZDUnkwdExTMHRMVzk1WW5reE9DMXVNVUZCUVVGQlIzSnBRa3B6UlVoUWNVRkJFaEpNU0RVMk9YeE1TREV4T0RoOFRGZ3pNalFhQ3dpdDZ3UVFBaG9EVlZORU9CeHdyZXNFIixbWyJMT1MiLCIyMDI2LTEwLTI4IiwiRlJBIixudWxsLCJMSCIsIjU2OSJdLFsiRlJBIiwiMjAyNi0xMC0yOSIsIlpSSCIsbnVsbCwiTEgiLCIxMTg4Il0sWyJaUkgiLCIyMDI2LTEwLTI5IiwiTEhSIixudWxsLCJMWCIsIjMyNCJdXV0="
+                },
+                {
+                    "flights": [
+                        {
+                            "departure_airport": {
+                                "name": "Murtala Muhammed International Airport",
+                                "id": "LOS",
+                                "time": "2026-10-28 23:55"
+                            },
+                            "arrival_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 06:25"
+                            },
+                            "duration": 390,
+                            "airplane": "Boeing 787",
+                            "airline": "Lufthansa",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+                            "travel_class": "Economy",
+                            "flight_number": "LH 569",
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Wi-Fi for a fee",
+                                "In-seat USB outlet",
+                                "On-demand video",
+                                "Carbon emissions estimate: 301 kg"
+                            ],
+                            "overnight": true
+                        },
+                        {
+                            "departure_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 10:05"
+                            },
+                            "arrival_airport": {
+                                "name": "Heathrow Airport",
+                                "id": "LHR",
+                                "time": "2026-10-29 10:45"
+                            },
+                            "duration": 100,
+                            "airplane": "Airbus A320neo",
+                            "airline": "Lufthansa City Airlines",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VL.png",
+                            "travel_class": "Economy",
+                            "flight_number": "VL 904",
+                            "ticket_also_sold_by": [
+                                "Lufthansa"
+                            ],
+                            "legroom": "29 in",
+                            "extensions": [
+                                "Below average legroom (29 in)",
+                                "In-seat USB outlet",
+                                "Carbon emissions estimate: 65 kg"
+                            ]
+                        }
+                    ],
+                    "layovers": [
+                        {
+                            "duration": 220,
+                            "name": "Frankfurt Airport",
+                            "id": "FRA"
+                        }
+                    ],
+                    "total_duration": 710,
+                    "carbon_emissions": {
+                        "this_flight": 368000,
+                        "typical_for_this_route": 381000,
+                        "difference_percent": -3
+                    },
+                    "price": 801,
+                    "type": "One way",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+                    "booking_token": "WyJDalJJT1dsQ2JUUkJTMGREZVRCQlJXTlpTRUZDUnkwdExTMHRMVzk1WW5reE9DMXVNVUZCUVVGQlIzSnBRa3B6UlVoUWNVRkJFZ3RNU0RVMk9YeFdURGt3TkJvTENNWHhCQkFDR2dOVlUwUTRISERGOFFRPSIsW1siTE9TIiwiMjAyNi0xMC0yOCIsIkZSQSIsbnVsbCwiTEgiLCI1NjkiXSxbIkZSQSIsIjIwMjYtMTAtMjkiLCJMSFIiLG51bGwsIlZMIiwiOTA0Il1dXQ=="
+                },
+                {
+                    "flights": [
+                        {
+                            "departure_airport": {
+                                "name": "Murtala Muhammed International Airport",
+                                "id": "LOS",
+                                "time": "2026-10-28 23:05"
+                            },
+                            "arrival_airport": {
+                                "name": "Amsterdam Airport Schiphol",
+                                "id": "AMS",
+                                "time": "2026-10-29 05:50"
+                            },
+                            "duration": 405,
+                            "airplane": "Airbus A330",
+                            "airline": "KLM",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+                            "travel_class": "Economy",
+                            "flight_number": "KL 588",
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Wi-Fi for a fee",
+                                "In-seat power & USB outlets",
+                                "On-demand video",
+                                "Carbon emissions estimate: 316 kg"
+                            ],
+                            "overnight": true
+                        },
+                        {
+                            "departure_airport": {
+                                "name": "Amsterdam Airport Schiphol",
+                                "id": "AMS",
+                                "time": "2026-10-29 07:20"
+                            },
+                            "arrival_airport": {
+                                "name": "Heathrow Airport",
+                                "id": "LHR",
+                                "time": "2026-10-29 07:40"
+                            },
+                            "duration": 80,
+                            "airplane": "Embraer 195 E2",
+                            "airline": "KLM",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+                            "travel_class": "Economy",
+                            "flight_number": "KL 1001",
+                            "legroom": "29 in",
+                            "extensions": [
+                                "Below average legroom (29 in)",
+                                "In-seat USB outlet",
+                                "Carbon emissions estimate: 50 kg"
+                            ],
+                            "plane_and_crew_by": "KLM Cityhopper"
+                        }
+                    ],
+                    "layovers": [
+                        {
+                            "duration": 90,
+                            "name": "Amsterdam Airport Schiphol",
+                            "id": "AMS"
+                        }
+                    ],
+                    "total_duration": 575,
+                    "carbon_emissions": {
+                        "this_flight": 367000,
+                        "typical_for_this_route": 381000,
+                        "difference_percent": -4
+                    },
+                    "price": 1077,
+                    "type": "One way",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+                    "booking_token": "WyJDalJJT1dsQ2JUUkJTMGREZVRCQlJXTlpTRUZDUnkwdExTMHRMVzk1WW5reE9DMXVNVUZCUVVGQlIzSnBRa3B6UlVoUWNVRkJFZ3hMVERVNE9IeExUREV3TURFYUN3aWd5UVlRQWhvRFZWTkVPQnh3b01rRyIsW1siTE9TIiwiMjAyNi0xMC0yOCIsIkFNUyIsbnVsbCwiS0wiLCI1ODgiXSxbIkFNUyIsIjIwMjYtMTAtMjkiLCJMSFIiLG51bGwsIktMIiwiMTAwMSJdXV0="
+                }
+            ],
+            "price_insights": {
+                "lowest_price": 517,
+                "price_level": "high",
+                "typical_price_range": [
+                    410,
+                    460
+                ],
+                "price_history": [
+                    [
+                        1787785200,
+                        418
+                    ],
+                    [
+                        1787871600,
+                        417
+                    ],
+                    [
+                        1787958000,
+                        417
+                    ],
+                    [
+                        1788044400,
+                        418
+                    ],
+                    [
+                        1788130800,
+                        416
+                    ],
+                    [
+                        1788217200,
+                        414
+                    ],
+                    [
+                        1788303600,
+                        417
+                    ],
+                    [
+                        1788390000,
+                        417
+                    ],
+                    [
+                        1788476400,
+                        421
+                    ],
+                    [
+                        1788562800,
+                        420
+                    ],
+                    [
+                        1788649200,
+                        421
+                    ],
+                    [
+                        1788735600,
+                        421
+                    ],
+                    [
+                        1788822000,
+                        421
+                    ],
+                    [
+                        1788908400,
+                        409
+                    ],
+                    [
+                        1788994800,
+                        409
+                    ],
+                    [
+                        1789081200,
+                        408
+                    ],
+                    [
+                        1789167600,
+                        410
+                    ],
+                    [
+                        1789254000,
+                        410
+                    ],
+                    [
+                        1789340400,
+                        410
+                    ],
+                    [
+                        1789426800,
+                        409
+                    ],
+                    [
+                        1789513200,
+                        410
+                    ],
+                    [
+                        1789599600,
+                        410
+                    ],
+                    [
+                        1789686000,
+                        409
+                    ],
+                    [
+                        1789772400,
+                        408
+                    ],
+                    [
+                        1789858800,
+                        408
+                    ],
+                    [
+                        1789945200,
+                        385
+                    ],
+                    [
+                        1790031600,
+                        383
+                    ],
+                    [
+                        1790118000,
+                        381
+                    ],
+                    [
+                        1790204400,
+                        383
+                    ],
+                    [
+                        1790290800,
+                        383
+                    ],
+                    [
+                        1790377200,
+                        384
+                    ],
+                    [
+                        1790463600,
+                        384
+                    ],
+                    [
+                        1790550000,
+                        383
+                    ],
+                    [
+                        1790636400,
+                        381
+                    ],
+                    [
+                        1790722800,
+                        381
+                    ],
+                    [
+                        1790809200,
+                        379
+                    ],
+                    [
+                        1790895600,
+                        379
+                    ],
+                    [
+                        1790982000,
+                        379
+                    ],
+                    [
+                        1791068400,
+                        453
+                    ],
+                    [
+                        1791154800,
+                        451
+                    ],
+                    [
+                        1791241200,
+                        483
+                    ],
+                    [
+                        1791327600,
+                        494
+                    ],
+                    [
+                        1791414000,
+                        487
+                    ],
+                    [
+                        1791500400,
+                        453
+                    ],
+                    [
+                        1791586800,
+                        453
+                    ],
+                    [
+                        1791673200,
+                        453
+                    ],
+                    [
+                        1791759600,
+                        450
+                    ],
+                    [
+                        1791846000,
+                        451
+                    ],
+                    [
+                        1791932400,
+                        450
+                    ],
+                    [
+                        1792018800,
+                        391
+                    ],
+                    [
+                        1792105200,
+                        380
+                    ],
+                    [
+                        1792191600,
+                        455
+                    ],
+                    [
+                        1792278000,
+                        469
+                    ],
+                    [
+                        1792364400,
+                        483
+                    ],
+                    [
+                        1792450800,
+                        468
+                    ],
+                    [
+                        1792537200,
+                        484
+                    ],
+                    [
+                        1792623600,
+                        474
+                    ],
+                    [
+                        1792710000,
+                        484
+                    ],
+                    [
+                        1792796400,
+                        468
+                    ],
+                    [
+                        1792882800,
+                        480
+                    ],
+                    [
+                        1792969200,
+                        490
+                    ],
+                    [
+                        1793142000,
+                        517
+                    ]
+                ]
+            },
+            "airports": [
+                {
+                    "departure": [
+                        {
+                            "airport": {
+                                "id": "LOS",
+                                "name": "Murtala Muhammed International Airport"
+                            },
+                            "city": "Lagos",
+                            "country": "Nigeria",
+                            "country_code": "NG",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBnUfOygrYQsjGW-B2zT6HBY3EzqAF8DCm6DIm0wLPe3fru4Kvw9hwY9fBjFbgFA2Rfnz6X6rWizAHAg",
+                            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA66dD8vEKUJUCa4JRDXFQrLGq8Et7vl4NOzsSjymNvJtDm_Vo2dbf49ihiL6EMSup6sgS2Lx6AtyQbc8wsDrzfAAGqVY9Z3QMoKsgfWE"
+                        }
+                    ],
+                    "arrival": [
+                        {
+                            "airport": {
+                                "id": "LHR",
+                                "name": "Heathrow Airport"
+                            },
+                            "city": "London",
+                            "country": "United Kingdom",
+                            "country_code": "GB",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpN9RbtOSTDqKIPxWc_D6rdSysaWVh6d-NW7yz7yFXKRwh5RN5BpNIoXEwH1XVcFdLWqn6Sm8_Y_zmeg",
+                            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYH83YXny8hR4M7k5BMFq4vUT6LNtVABQzgs2pg-hcpSZq3oMBOQK3xh591AAJv2Qx4uvFZUGqOVt4kuoCUOklISunmndJleOoSef_7QE"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "fetched_at": "2026-10-28T15:43:49.461088",
+        "results": {
+            "search_metadata": {
+                "id": "6ae20499131811c6b11f396a",
+                "status": "Success",
+                "json_endpoint": "https://serpapi.com/searches/5tM9TMwwqJVbh0gM1acmT-bZPFtwulkKDMqL2hn9P0s/6ae20499131811c6b11f396a.json",
+                "markdown_endpoint": "https://serpapi.com/searches/5tM9TMwwqJVbh0gM1acmT-bZPFtwulkKDMqL2hn9P0s/6ae20499131811c6b11f396a.md",
+                "created_at": "2026-10-28 14:20:09 UTC",
+                "processed_at": "2026-10-28 14:20:09 UTC",
+                "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEwLTI4agcIARIDTE9TcgcIARIDTEhSQAFIAXABmAEC&tfu=EgIIAQ",
+                "raw_html_file": "https://serpapi.com/searches/5tM9TMwwqJVbh0gM1acmT-bZPFtwulkKDMqL2hn9P0s/6ae20499131811c6b11f396a.html",
+                "prettify_html_file": "https://serpapi.com/searches/5tM9TMwwqJVbh0gM1acmT-bZPFtwulkKDMqL2hn9P0s/6ae20499131811c6b11f396a.prettify",
+                "total_time_taken": 3.42
+            },
+            "search_parameters": {
+                "engine": "google_flights",
+                "hl": "en",
+                "gl": "us",
+                "type": "2",
+                "departure_id": "LOS",
+                "arrival_id": "LHR",
+                "outbound_date": "2026-10-28",
+                "currency": "USD"
+            },
+            "best_flights": [
+                {
+                    "flights": [
+                        {
+                            "departure_airport": {
+                                "name": "Murtala Muhammed International Airport",
+                                "id": "LOS",
+                                "time": "2026-10-28 15:30"
+                            },
+                            "arrival_airport": {
+                                "name": "Hamad International Airport",
+                                "id": "DOH",
+                                "time": "2026-10-29 00:20"
+                            },
+                            "duration": 410,
+                            "airplane": "Boeing 787",
+                            "airline": "Qatar Airways",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+                            "travel_class": "Economy",
+                            "flight_number": "QR 1406",
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Wi-Fi for a fee",
+                                "In-seat power & USB outlets",
+                                "On-demand video",
+                                "Carbon emissions estimate: 394 kg"
+                            ]
+                        },
+                        {
+                            "departure_airport": {
+                                "name": "Hamad International Airport",
+                                "id": "DOH",
+                                "time": "2026-10-29 02:55"
+                            },
+                            "arrival_airport": {
+                                "name": "Heathrow Airport",
+                                "id": "LHR",
+                                "time": "2026-10-29 07:20"
+                            },
+                            "duration": 445,
+                            "airplane": "Boeing 777",
+                            "airline": "Qatar Airways",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+                            "travel_class": "Economy",
+                            "flight_number": "QR 105",
+                            "ticket_also_sold_by": [
+                                "British Airways"
+                            ],
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Free Wi-Fi",
+                                "In-seat power & USB outlets",
+                                "On-demand video",
+                                "Carbon emissions estimate: 393 kg"
+                            ],
+                            "overnight": true
+                        }
+                    ],
+                    "layovers": [
+                        {
+                            "duration": 155,
+                            "name": "Hamad International Airport",
+                            "id": "DOH"
+                        }
+                    ],
+                    "total_duration": 1010,
+                    "carbon_emissions": {
+                        "this_flight": 788000,
+                        "typical_for_this_route": 381000,
+                        "difference_percent": 107
+                    },
+                    "price": 517,
+                    "type": "One way",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+                    "booking_token": "WyJDalJJT1dsQ2JUUkJTMGREZVRCQlJXTlpTRUZDUnkwdExTMHRMVzk1WW5reE9DMXVNVUZCUVVGQlIzSnBRa3B6UlVoUWNVRkJFZ3hSVWpFME1EWjhVVkl4TURVYUN3akprd01RQWhvRFZWTkVPQnh3eVpNRCIsW1siTE9TIiwiMjAyNi0xMC0yOCIsIkRPSCIsbnVsbCwiUVIiLCIxNDA2Il0sWyJET0giLCIyMDI2LTEwLTI5IiwiTEhSIixudWxsLCJRUiIsIjEwNSJdXV0="
+                },
+                {
+                    "flights": [
+                        {
+                            "departure_airport": {
+                                "name": "Murtala Muhammed International Airport",
+                                "id": "LOS",
+                                "time": "2026-10-28 23:55"
+                            },
+                            "arrival_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 06:25"
+                            },
+                            "duration": 390,
+                            "airplane": "Boeing 787",
+                            "airline": "Lufthansa",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+                            "travel_class": "Economy",
+                            "flight_number": "LH 569",
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Wi-Fi for a fee",
+                                "In-seat USB outlet",
+                                "On-demand video",
+                                "Carbon emissions estimate: 301 kg"
+                            ],
+                            "overnight": true
+                        },
+                        {
+                            "departure_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 08:05"
+                            },
+                            "arrival_airport": {
+                                "name": "Heathrow Airport",
+                                "id": "LHR",
+                                "time": "2026-10-29 08:45"
+                            },
+                            "duration": 100,
+                            "airplane": "Airbus A320neo",
+                            "airline": "Lufthansa",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+                            "travel_class": "Economy",
+                            "flight_number": "LH 900",
+                            "legroom": "29 in",
+                            "extensions": [
+                                "Below average legroom (29 in)",
+                                "In-seat USB outlet",
+                                "Carbon emissions estimate: 66 kg"
+                            ]
+                        }
+                    ],
+                    "layovers": [
+                        {
+                            "duration": 100,
+                            "name": "Frankfurt Airport",
+                            "id": "FRA"
+                        }
+                    ],
+                    "total_duration": 590,
+                    "carbon_emissions": {
+                        "this_flight": 369000,
+                        "typical_for_this_route": 381000,
+                        "difference_percent": -3
+                    },
+                    "price": 780,
+                    "type": "One way",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+                    "booking_token": "WyJDalJJT1dsQ2JUUkJTMGREZVRCQlJXTlpTRUZDUnkwdExTMHRMVzk1WW5reE9DMXVNVUZCUVVGQlIzSnBRa3B6UlVoUWNVRkJFZ3RNU0RVMk9YeE1TRGt3TUJvTENOYmdCQkFDR2dOVlUwUTRISERXNEFRPSIsW1siTE9TIiwiMjAyNi0xMC0yOCIsIkZSQSIsbnVsbCwiTEgiLCI1NjkiXSxbIkZSQSIsIjIwMjYtMTAtMjkiLCJMSFIiLG51bGwsIkxIIiwiOTAwIl1dXQ=="
+                },
+                {
+                    "flights": [
+                        {
+                            "departure_airport": {
+                                "name": "Murtala Muhammed International Airport",
+                                "id": "LOS",
+                                "time": "2026-10-28 23:05"
+                            },
+                            "arrival_airport": {
+                                "name": "Heathrow Airport",
+                                "id": "LHR",
+                                "time": "2026-10-29 04:50"
+                            },
+                            "duration": 405,
+                            "airplane": "Boeing 787-10",
+                            "airline": "British Airways",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+                            "travel_class": "Economy",
+                            "flight_number": "BA 74",
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Wi-Fi for a fee",
+                                "In-seat power & USB outlets",
+                                "On-demand video",
+                                "Carbon emissions estimate: 282 kg"
+                            ],
+                            "overnight": true
+                        }
+                    ],
+                    "total_duration": 405,
+                    "carbon_emissions": {
+                        "this_flight": 282000,
+                        "typical_for_this_route": 381000,
+                        "difference_percent": -26
+                    },
+                    "price": 1005,
+                    "type": "One way",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+                    "booking_token": "WyJDalJJT1dsQ2JUUkJTMGREZVRCQlJXTlpTRUZDUnkwdExTMHRMVzk1WW5reE9DMXVNVUZCUVVGQlIzSnBRa3B6UlVoUWNVRkJFZ1JDUVRjMEdnc0l1cEFHRUFJYUExVlRSRGdjY0xxUUJnPT0iLFtbIkxPUyIsIjIwMjYtMTAtMjgiLCJMSFIiLG51bGwsIkJBIiwiNzQiXV1d"
+                }
+            ],
+            "other_flights": [
+                {
+                    "flights": [
+                        {
+                            "departure_airport": {
+                                "name": "Murtala Muhammed International Airport",
+                                "id": "LOS",
+                                "time": "2026-10-28 23:55"
+                            },
+                            "arrival_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 06:25"
+                            },
+                            "duration": 390,
+                            "airplane": "Boeing 787",
+                            "airline": "Lufthansa",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+                            "travel_class": "Economy",
+                            "flight_number": "LH 569",
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Wi-Fi for a fee",
+                                "In-seat USB outlet",
+                                "On-demand video",
+                                "Carbon emissions estimate: 301 kg"
+                            ],
+                            "overnight": true
+                        },
+                        {
+                            "departure_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 14:05"
+                            },
+                            "arrival_airport": {
+                                "name": "Heathrow Airport",
+                                "id": "LHR",
+                                "time": "2026-10-29 14:45"
+                            },
+                            "duration": 100,
+                            "airplane": "Airbus A320neo",
+                            "airline": "Lufthansa City Airlines",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VL.png",
+                            "travel_class": "Economy",
+                            "flight_number": "VL 908",
+                            "ticket_also_sold_by": [
+                                "Lufthansa"
+                            ],
+                            "legroom": "29 in",
+                            "extensions": [
+                                "Below average legroom (29 in)",
+                                "In-seat USB outlet",
+                                "Carbon emissions estimate: 65 kg"
+                            ]
+                        }
+                    ],
+                    "layovers": [
+                        {
+                            "duration": 460,
+                            "name": "Frankfurt Airport",
+                            "id": "FRA"
+                        }
+                    ],
+                    "total_duration": 950,
+                    "carbon_emissions": {
+                        "this_flight": 368000,
+                        "typical_for_this_route": 381000,
+                        "difference_percent": -3
+                    },
+                    "price": 780,
+                    "type": "One way",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+                    "booking_token": "WyJDalJJT1dsQ2JUUkJTMGREZVRCQlJXTlpTRUZDUnkwdExTMHRMVzk1WW5reE9DMXVNVUZCUVVGQlIzSnBRa3B6UlVoUWNVRkJFZ3RNU0RVMk9YeFdURGt3T0JvTENOYmdCQkFDR2dOVlUwUTRISERXNEFRPSIsW1siTE9TIiwiMjAyNi0xMC0yOCIsIkZSQSIsbnVsbCwiTEgiLCI1NjkiXSxbIkZSQSIsIjIwMjYtMTAtMjkiLCJMSFIiLG51bGwsIlZMIiwiOTA4Il1dXQ=="
+                },
+                {
+                    "flights": [
+                        {
+                            "departure_airport": {
+                                "name": "Murtala Muhammed International Airport",
+                                "id": "LOS",
+                                "time": "2026-10-28 23:55"
+                            },
+                            "arrival_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 06:25"
+                            },
+                            "duration": 390,
+                            "airplane": "Boeing 787",
+                            "airline": "Lufthansa",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+                            "travel_class": "Economy",
+                            "flight_number": "LH 569",
+                            "ticket_also_sold_by": [
+                                "SWISS"
+                            ],
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Wi-Fi for a fee",
+                                "In-seat USB outlet",
+                                "On-demand video",
+                                "Carbon emissions estimate: 301 kg"
+                            ],
+                            "overnight": true
+                        },
+                        {
+                            "departure_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 11:20"
+                            },
+                            "arrival_airport": {
+                                "name": "Zurich Airport",
+                                "id": "ZRH",
+                                "time": "2026-10-29 12:15"
+                            },
+                            "duration": 55,
+                            "airplane": "Embraer 190",
+                            "airline": "Lufthansa",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+                            "travel_class": "Economy",
+                            "flight_number": "LH 1188",
+                            "ticket_also_sold_by": [
+                                "SWISS"
+                            ],
+                            "legroom": "30 in",
+                            "extensions": [
+                                "Average legroom (30 in)",
+                                "Carbon emissions estimate: 63 kg"
+                            ],
+                            "plane_and_crew_by": "Air Dolomiti"
+                        },
+                        {
+                            "departure_airport": {
+                                "name": "Zurich Airport",
+                                "id": "ZRH",
+                                "time": "2026-10-29 15:30"
+                            },
+                            "arrival_airport": {
+                                "name": "Heathrow Airport",
+                                "id": "LHR",
+                                "time": "2026-10-29 16:20"
+                            },
+                            "duration": 110,
+                            "airplane": "Airbus A320neo",
+                            "airline": "SWISS",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LX.png",
+                            "travel_class": "Economy",
+                            "flight_number": "LX 324",
+                            "legroom": "29 in",
+                            "extensions": [
+                                "Below average legroom (29 in)",
+                                "In-seat USB outlet",
+                                "Carbon emissions estimate: 71 kg"
+                            ]
+                        }
+                    ],
+                    "layovers": [
+                        {
+                            "duration": 295,
+                            "name": "Frankfurt Airport",
+                            "id": "FRA"
+                        },
+                        {
+                            "duration": 195,
+                            "name": "Zurich Airport",
+                            "id": "ZRH"
+                        }
+                    ],
+                    "total_duration": 1045,
+                    "carbon_emissions": {
+                        "this_flight": 437000,
+                        "typical_for_this_route": 381000,
+                        "difference_percent": 15
+                    },
+                    "price": 793,
+                    "type": "One way",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+                    "booking_token": "WyJDalJJT1dsQ2JUUkJTMGREZVRCQlJXTlpTRUZDUnkwdExTMHRMVzk1WW5reE9DMXVNVUZCUVVGQlIzSnBRa3B6UlVoUWNVRkJFaEpNU0RVMk9YeE1TREV4T0RoOFRGZ3pNalFhQ3dpdDZ3UVFBaG9EVlZORU9CeHdyZXNFIixbWyJMT1MiLCIyMDI2LTEwLTI4IiwiRlJBIixudWxsLCJMSCIsIjU2OSJdLFsiRlJBIiwiMjAyNi0xMC0yOSIsIlpSSCIsbnVsbCwiTEgiLCIxMTg4Il0sWyJaUkgiLCIyMDI2LTEwLTI5IiwiTEhSIixudWxsLCJMWCIsIjMyNCJdXV0="
+                },
+                {
+                    "flights": [
+                        {
+                            "departure_airport": {
+                                "name": "Murtala Muhammed International Airport",
+                                "id": "LOS",
+                                "time": "2026-10-28 23:55"
+                            },
+                            "arrival_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 06:25"
+                            },
+                            "duration": 390,
+                            "airplane": "Boeing 787",
+                            "airline": "Lufthansa",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+                            "travel_class": "Economy",
+                            "flight_number": "LH 569",
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Wi-Fi for a fee",
+                                "In-seat USB outlet",
+                                "On-demand video",
+                                "Carbon emissions estimate: 301 kg"
+                            ],
+                            "overnight": true
+                        },
+                        {
+                            "departure_airport": {
+                                "name": "Frankfurt Airport",
+                                "id": "FRA",
+                                "time": "2026-10-29 10:05"
+                            },
+                            "arrival_airport": {
+                                "name": "Heathrow Airport",
+                                "id": "LHR",
+                                "time": "2026-10-29 10:45"
+                            },
+                            "duration": 100,
+                            "airplane": "Airbus A320neo",
+                            "airline": "Lufthansa City Airlines",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VL.png",
+                            "travel_class": "Economy",
+                            "flight_number": "VL 904",
+                            "ticket_also_sold_by": [
+                                "Lufthansa"
+                            ],
+                            "legroom": "29 in",
+                            "extensions": [
+                                "Below average legroom (29 in)",
+                                "In-seat USB outlet",
+                                "Carbon emissions estimate: 65 kg"
+                            ]
+                        }
+                    ],
+                    "layovers": [
+                        {
+                            "duration": 220,
+                            "name": "Frankfurt Airport",
+                            "id": "FRA"
+                        }
+                    ],
+                    "total_duration": 710,
+                    "carbon_emissions": {
+                        "this_flight": 368000,
+                        "typical_for_this_route": 381000,
+                        "difference_percent": -3
+                    },
+                    "price": 801,
+                    "type": "One way",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+                    "booking_token": "WyJDalJJT1dsQ2JUUkJTMGREZVRCQlJXTlpTRUZDUnkwdExTMHRMVzk1WW5reE9DMXVNVUZCUVVGQlIzSnBRa3B6UlVoUWNVRkJFZ3RNU0RVMk9YeFdURGt3TkJvTENNWHhCQkFDR2dOVlUwUTRISERGOFFRPSIsW1siTE9TIiwiMjAyNi0xMC0yOCIsIkZSQSIsbnVsbCwiTEgiLCI1NjkiXSxbIkZSQSIsIjIwMjYtMTAtMjkiLCJMSFIiLG51bGwsIlZMIiwiOTA0Il1dXQ=="
+                },
+                {
+                    "flights": [
+                        {
+                            "departure_airport": {
+                                "name": "Murtala Muhammed International Airport",
+                                "id": "LOS",
+                                "time": "2026-10-28 23:05"
+                            },
+                            "arrival_airport": {
+                                "name": "Amsterdam Airport Schiphol",
+                                "id": "AMS",
+                                "time": "2026-10-29 05:50"
+                            },
+                            "duration": 405,
+                            "airplane": "Airbus A330",
+                            "airline": "KLM",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+                            "travel_class": "Economy",
+                            "flight_number": "KL 588",
+                            "legroom": "31 in",
+                            "extensions": [
+                                "Average legroom (31 in)",
+                                "Wi-Fi for a fee",
+                                "In-seat power & USB outlets",
+                                "On-demand video",
+                                "Carbon emissions estimate: 316 kg"
+                            ],
+                            "overnight": true
+                        },
+                        {
+                            "departure_airport": {
+                                "name": "Amsterdam Airport Schiphol",
+                                "id": "AMS",
+                                "time": "2026-10-29 07:20"
+                            },
+                            "arrival_airport": {
+                                "name": "Heathrow Airport",
+                                "id": "LHR",
+                                "time": "2026-10-29 07:40"
+                            },
+                            "duration": 80,
+                            "airplane": "Embraer 195 E2",
+                            "airline": "KLM",
+                            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+                            "travel_class": "Economy",
+                            "flight_number": "KL 1001",
+                            "legroom": "29 in",
+                            "extensions": [
+                                "Below average legroom (29 in)",
+                                "In-seat USB outlet",
+                                "Carbon emissions estimate: 50 kg"
+                            ],
+                            "plane_and_crew_by": "KLM Cityhopper"
+                        }
+                    ],
+                    "layovers": [
+                        {
+                            "duration": 90,
+                            "name": "Amsterdam Airport Schiphol",
+                            "id": "AMS"
+                        }
+                    ],
+                    "total_duration": 575,
+                    "carbon_emissions": {
+                        "this_flight": 367000,
+                        "typical_for_this_route": 381000,
+                        "difference_percent": -4
+                    },
+                    "price": 1077,
+                    "type": "One way",
+                    "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+                    "booking_token": "WyJDalJJT1dsQ2JUUkJTMGREZVRCQlJXTlpTRUZDUnkwdExTMHRMVzk1WW5reE9DMXVNVUZCUVVGQlIzSnBRa3B6UlVoUWNVRkJFZ3hMVERVNE9IeExUREV3TURFYUN3aWd5UVlRQWhvRFZWTkVPQnh3b01rRyIsW1siTE9TIiwiMjAyNi0xMC0yOCIsIkFNUyIsbnVsbCwiS0wiLCI1ODgiXSxbIkFNUyIsIjIwMjYtMTAtMjkiLCJMSFIiLG51bGwsIktMIiwiMTAwMSJdXV0="
+                }
+            ],
+            "price_insights": {
+                "lowest_price": 517,
+                "price_level": "high",
+                "typical_price_range": [
+                    410,
+                    460
+                ],
+                "price_history": [
+                    [
+                        1787785200,
+                        418
+                    ],
+                    [
+                        1787871600,
+                        417
+                    ],
+                    [
+                        1787958000,
+                        417
+                    ],
+                    [
+                        1788044400,
+                        418
+                    ],
+                    [
+                        1788130800,
+                        416
+                    ],
+                    [
+                        1788217200,
+                        414
+                    ],
+                    [
+                        1788303600,
+                        417
+                    ],
+                    [
+                        1788390000,
+                        417
+                    ],
+                    [
+                        1788476400,
+                        421
+                    ],
+                    [
+                        1788562800,
+                        420
+                    ],
+                    [
+                        1788649200,
+                        421
+                    ],
+                    [
+                        1788735600,
+                        421
+                    ],
+                    [
+                        1788822000,
+                        421
+                    ],
+                    [
+                        1788908400,
+                        409
+                    ],
+                    [
+                        1788994800,
+                        409
+                    ],
+                    [
+                        1789081200,
+                        408
+                    ],
+                    [
+                        1789167600,
+                        410
+                    ],
+                    [
+                        1789254000,
+                        410
+                    ],
+                    [
+                        1789340400,
+                        410
+                    ],
+                    [
+                        1789426800,
+                        409
+                    ],
+                    [
+                        1789513200,
+                        410
+                    ],
+                    [
+                        1789599600,
+                        410
+                    ],
+                    [
+                        1789686000,
+                        409
+                    ],
+                    [
+                        1789772400,
+                        408
+                    ],
+                    [
+                        1789858800,
+                        408
+                    ],
+                    [
+                        1789945200,
+                        385
+                    ],
+                    [
+                        1790031600,
+                        383
+                    ],
+                    [
+                        1790118000,
+                        381
+                    ],
+                    [
+                        1790204400,
+                        383
+                    ],
+                    [
+                        1790290800,
+                        383
+                    ],
+                    [
+                        1790377200,
+                        384
+                    ],
+                    [
+                        1790463600,
+                        384
+                    ],
+                    [
+                        1790550000,
+                        383
+                    ],
+                    [
+                        1790636400,
+                        381
+                    ],
+                    [
+                        1790722800,
+                        381
+                    ],
+                    [
+                        1790809200,
+                        379
+                    ],
+                    [
+                        1790895600,
+                        379
+                    ],
+                    [
+                        1790982000,
+                        379
+                    ],
+                    [
+                        1791068400,
+                        453
+                    ],
+                    [
+                        1791154800,
+                        451
+                    ],
+                    [
+                        1791241200,
+                        483
+                    ],
+                    [
+                        1791327600,
+                        494
+                    ],
+                    [
+                        1791414000,
+                        487
+                    ],
+                    [
+                        1791500400,
+                        453
+                    ],
+                    [
+                        1791586800,
+                        453
+                    ],
+                    [
+                        1791673200,
+                        453
+                    ],
+                    [
+                        1791759600,
+                        450
+                    ],
+                    [
+                        1791846000,
+                        451
+                    ],
+                    [
+                        1791932400,
+                        450
+                    ],
+                    [
+                        1792018800,
+                        391
+                    ],
+                    [
+                        1792105200,
+                        380
+                    ],
+                    [
+                        1792191600,
+                        455
+                    ],
+                    [
+                        1792278000,
+                        469
+                    ],
+                    [
+                        1792364400,
+                        483
+                    ],
+                    [
+                        1792450800,
+                        468
+                    ],
+                    [
+                        1792537200,
+                        484
+                    ],
+                    [
+                        1792623600,
+                        474
+                    ],
+                    [
+                        1792710000,
+                        484
+                    ],
+                    [
+                        1792796400,
+                        468
+                    ],
+                    [
+                        1792882800,
+                        480
+                    ],
+                    [
+                        1792969200,
+                        490
+                    ],
+                    [
+                        1793142000,
+                        517
+                    ]
+                ]
+            },
+            "airports": [
+                {
+                    "departure": [
+                        {
+                            "airport": {
+                                "id": "LOS",
+                                "name": "Murtala Muhammed International Airport"
+                            },
+                            "city": "Lagos",
+                            "country": "Nigeria",
+                            "country_code": "NG",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBnUfOygrYQsjGW-B2zT6HBY3EzqAF8DCm6DIm0wLPe3fru4Kvw9hwY9fBjFbgFA2Rfnz6X6rWizAHAg",
+                            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA66dD8vEKUJUCa4JRDXFQrLGq8Et7vl4NOzsSjymNvJtDm_Vo2dbf49ihiL6EMSup6sgS2Lx6AtyQbc8wsDrzfAAGqVY9Z3QMoKsgfWE"
+                        }
+                    ],
+                    "arrival": [
+                        {
+                            "airport": {
+                                "id": "LHR",
+                                "name": "Heathrow Airport"
+                            },
+                            "city": "London",
+                            "country": "United Kingdom",
+                            "country_code": "GB",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpN9RbtOSTDqKIPxWc_D6rdSysaWVh6d-NW7yz7yFXKRwh5RN5BpNIoXEwH1XVcFdLWqn6Sm8_Y_zmeg",
+                            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYH83YXny8hR4M7k5BMFq4vUT6LNtVABQzgs2pg-hcpSZq3oMBOQK3xh591AAJv2Qx4uvFZUGqOVt4kuoCUOklISunmndJleOoSef_7QE"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]
